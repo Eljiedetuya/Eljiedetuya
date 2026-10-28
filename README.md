@@ -6,7 +6,7 @@
 
 I build digital projects, explore AI, and turn ideas into practical solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-blue?style=for-the-badge&logo=vercel)](https://eljiedetuya.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-blue?style=for-the-badge&logo=vercel)](https://edmweb.vercel.app/)
 
 </div>
 
