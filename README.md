@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B;I'm+Eljie+Mag-aso;IT+Student+%40+Cebu+Technological+University;Aspiring+Full-Stack+Developer;Exploring+AI%2C+Code+%26+Innovation;Turning+Ideas+Into+Digital+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B;IT+Student+%40+Cebu+Technological+University;Aspiring+Full-Stack+Developer;Exploring+AI%2C+Code+%26+Innovation;Turning+Ideas+Into+Digital+Experiences)](https://git.io/typing-svg)
 
 <p>
   <em>Curious mind. Creative thinking. Code-driven ideas.</em>
