@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:102A43,100:2563EB&height=250&section=header&text=Hello%20World!&fontSize=48&fontColor=EAF2FF&fontAlignY=35&desc=I'm%20Eljie%20Mag-aso&descSize=25&descColor=BFDBFE&descAlignY=55&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:102A43,100:2563EB&height=250&section=header&text=Hello%20World!&fontSize=48&fontColor=EAF2FF&fontAlignY=35&desc=&descSize=25&descColor=BFDBFE&descAlignY=55&animation=fadeIn)
 
 <div align="center">
 
