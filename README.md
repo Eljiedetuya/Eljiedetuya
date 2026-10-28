@@ -43,9 +43,9 @@ I build digital projects, explore AI, and turn ideas into practical solutions.
 
 ## 📫 Connect With Me
 
-- 🌍 Portfolio: [eljiedetuya.vercel.app](https://eljiedetuya.vercel.app/)
+- 🌍 Portfolio: [EljieDetuya](https://edmweb.vercel.app/)
 - 💻 GitHub: [@Eljiedetuya](https://github.com/Eljiedetuya)
-
+ 
 ---
 
 <div align="center">
