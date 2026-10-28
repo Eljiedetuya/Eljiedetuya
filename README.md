@@ -1,67 +1,77 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=220&section=header&text=ELJIE%20MAG-ASO&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Lifelong%20Learner&descSize=16&descAlignY=58&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1E1B4B,100:6D28D9&height=250&section=header&text=Hello%20World!&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=I'm%20Eljie%20Mag-aso&descSize=25&descColor=C4B5FD&descAlignY=55&animation=fadeIn)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Eljie+%F0%9F%91%8B;IT+Student+%40+CTU;Aspiring+Full-Stack+Developer;Building+Ideas+Into+Reality;Exploring+AI+%26+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B;I'm+Eljie+Mag-aso;IT+Student+%40+Cebu+Technological+University;Aspiring+Full-Stack+Developer;Exploring+AI%2C+Code+%26+Innovation;Turning+Ideas+Into+Digital+Experiences)](https://git.io/typing-svg)
 
-*Turning curiosity into code, and ideas into real projects.*
+<p>
+  <em>Curious mind. Creative thinking. Code-driven ideas.</em>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://edmweb.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://edmweb.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eljie-mag-aso-249164367/)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eljiedetuya)
+[![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eljiedetuya)
 
 </div>
 
 ---
 
-## `01` — About Me
+## <span style="color:#A78BFA">`01` — Who Am I?</span>
 
 ```yaml
 name: Eljie Mag-aso
-role: IT Student & Aspiring Developer
+greeting: "Hello, World!"
 education: Cebu Technological University
+field: Information Technology
+goal: Aspiring Full-Stack Developer
+
 interests:
-  - Full-Stack Development
+  - Web Development
   - Artificial Intelligence
   - Automation & IoT
   - Creative Design
-currently: Learning, building, and experimenting
+
+motto: "Imagine it. Build it. Improve it."
 ```
 
-I enjoy creating useful digital experiences, exploring new technologies, and combining creativity with programming.
+> I enjoy exploring technology, solving problems, and transforming ideas into digital experiences. Every project is another opportunity to learn something new.
 
-- 🎓 Studying Information Technology at CTU.
-- 💻 Exploring web and application development.
-- 🤖 Interested in AI, automation, and IoT projects.
-- 🎨 Experienced in creative design and video editing.
-- 🚀 Focused on building projects that solve real problems.
+- 🎓 IT student at Cebu Technological University.
+- 💻 Exploring web development and software engineering.
+- 🤖 Interested in AI, automation, and IoT.
+- 🎨 Passionate about graphic design and video editing.
+- 🚀 Always experimenting with new ideas and technologies.
 
-## `02` — Tech Arsenal
+---
+
+## <span style="color:#A78BFA">`02` — Tech Arsenal</span>
 
 <div align="center">
 
-**FRONTEND**
+**`FRONTEND DEVELOPMENT`**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0B1220?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**BACKEND & DATABASE**
+**`BACKEND & DATABASE`**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/Django-0B1220?style=for-the-badge&logo=django&logoColor=44B78B)
+![MySQL](https://img.shields.io/badge/MySQL-0B1220?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-**TOOLS**
+**`DEVELOPER TOOLS`**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-0B1220?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
-## `03` — Selected Projects
+---
+
+## <span style="color:#A78BFA">`03` — Things I've Built</span>
 
 <table>
 <tr>
@@ -69,20 +79,20 @@ I enjoy creating useful digital experiences, exploring new technologies, and com
 
 ### 🌐 Portfolio Website
 
-My personal space for showcasing my work, skills, and developer journey.
+A personal website to showcase my projects, skills, and development journey.
 
 **Focus:** Web Design · Frontend
 
-[↗ Visit Website](https://edmweb.vercel.app/)
+[↗ Explore Portfolio](https://edmweb.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🥤 Coke POS System
 
-A point-of-sale project focused on customer management and sales workflows.
+A point-of-sale system concept focused on managing sales and transactions.
 
-**Focus:** React · API Integration
+**Focus:** Application Development · POS
 
 </td>
 </tr>
@@ -91,16 +101,16 @@ A point-of-sale project focused on customer management and sales workflows.
 
 ### 🌫️ Air Quality Prediction
 
-An academic project exploring air quality data analysis and prediction using machine learning.
+An academic project exploring air-quality data and machine-learning prediction.
 
-**Focus:** Python · Pandas · ML
+**Focus:** Python · Data Analysis · ML
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌊 Smart Flood Monitoring
 
-An IoT project using an ESP32 and water-level sensor to monitor potential flooding.
+An IoT concept for monitoring water levels and identifying potential flood risks.
 
 **Focus:** ESP32 · Sensors · IoT
 
@@ -108,15 +118,17 @@ An IoT project using an ESP32 and water-level sensor to monitor potential floodi
 </tr>
 </table>
 
-## `04` — GitHub Activity
+---
+
+## <span style="color:#A78BFA">`04` — GitHub Dashboard</span>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eljiedetuya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=E5E7EB&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eljiedetuya&show_icons=true&hide_border=true&bg_color=020617&title_color=A78BFA&icon_color=818CF8&text_color=E2E8F0&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eljiedetuya&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eljiedetuya&layout=compact&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=E2E8F0)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Eljiedetuya&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF)
+![GitHub Streak](https://streak-stats.demolab.com?user=Eljiedetuya&hide_border=true&background=020617&ring=A78BFA&fire=818CF8&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8)
 
 </div>
 
@@ -124,14 +136,16 @@ An IoT project using an ESP32 and water-level sensor to monitor potential floodi
 
 <div align="center">
 
-### Let's build something meaningful.
+### `while (learning) { keepBuilding(); }`
 
-*“Every expert was once a beginner.”*
+**Thanks for stopping by!** 💜
 
-[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://edmweb.vercel.app/)
+*“Great things start with a simple Hello World.”*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Eljiedetuya&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)
+[![Visit Portfolio](https://img.shields.io/badge/LET'S_CONNECT-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://edmweb.vercel.app/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Eljiedetuya&style=flat-square&color=7C3AED&label=PROFILE+VISITORS)
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0F172A&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:1E1B4B,100:020617&height=120&section=footer)
