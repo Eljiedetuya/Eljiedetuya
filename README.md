@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1E1B4B,100:6D28D9&height=250&section=header&text=Hello%20World!&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=I'm%20Eljie%20Mag-aso&descSize=25&descColor=C4B5FD&descAlignY=55&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1E1B4B,100:6D28D9&height=250&section=header&text=Hello%20World!&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=&descSize=25&descColor=C4B5FD&descAlignY=55&animation=fadeIn)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B;IT+Student+%40+Cebu+Technological+University;Aspiring+Full-Stack+Developer;Exploring+AI%2C+Code+%26+Innovation;Turning+Ideas+Into+Digital+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B;I'm+Eljie+Mag-aso,IT+Student+%40+Cebu+Technological+University;Aspiring+Full-Stack+Developer;Exploring+AI%2C+Code+%26+Innovation;Turning+Ideas+Into+Digital+Experiences)](https://git.io/typing-svg)
 
 <p>
   <em>Curious mind. Creative thinking. Code-driven ideas.</em>
