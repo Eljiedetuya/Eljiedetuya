@@ -1,12 +1,24 @@
-<div align="center">
+ <div align="center">
 
 # Hey, I'm Eljie! 👋
 
-### IT Student | Aspiring Full-Stack Developer
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=5865F2&center=true&vCenter=true&width=600&lines=IT+Student;Aspiring+Full-Stack+Developer;AI+%26+Automation+Enthusiast;Creative+Technologist" alt="Typing SVG" />
+</a>
 
 I build digital projects, explore AI, and turn ideas into practical solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-blue?style=for-the-badge&logo=vercel)](https://edmweb.vercel.app/)
+<p>
+  <a href="https://edmweb.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/eljie-mag-aso-249164367/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Eljiedetuya">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
 </div>
 
@@ -37,15 +49,24 @@ I build digital projects, explore AI, and turn ideas into practical solutions.
 
 ## 🚀 Projects
 
-- 🌐 **Personal Portfolio** — A website showcasing my work and skills.
-- 🚌 **Bus Tracker** — A project exploring real-time location tracking.
+- 🌐 **Personal Portfolio** — [Visit my website](https://edmweb.vercel.app/)
+- 🚌 **Bus Tracker** — A project exploring location tracking.
 - 🥤 **Coke POS System** — A point-of-sale system project.
 
 ## 📫 Connect With Me
 
-- 🌍 Portfolio: [EljieDetuya](https://edmweb.vercel.app/)
-- 💻 GitHub: [@Eljiedetuya](https://github.com/Eljiedetuya)
- 
+<p>
+  <a href="https://www.linkedin.com/in/eljie-mag-aso-249164367/">
+    <img src="https://img.shields.io/badge/LinkedIn-Eljie_Mag--aso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Eljiedetuya">
+    <img src="https://img.shields.io/badge/GitHub-Eljiedetuya-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://edmweb.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 <div align="center">
